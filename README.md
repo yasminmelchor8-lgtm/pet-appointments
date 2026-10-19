@@ -22,12 +22,14 @@ Manage services (add, edit, hide)
 Update their profile
 
 Tech Stack
+
 PHP
 MySQL (phpMyAdmin)
 XAMPP (Apache + MySQL)
 HTML, CSS, JavaScript
 
 Database
+
 Four tables: users, services, pets, appointments.
 
 A user can have many pets.

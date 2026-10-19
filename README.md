@@ -6,7 +6,8 @@ Built with PHP, MySQL, and XAMPP.
 
 Features:
 
-Customer
+Customer Side
+
 
 Register and log in
 
@@ -16,7 +17,9 @@ View and cancel their own appointments
 
 Update their profile
 
-Admin
+
+Admin Side
+
 
 Dashboard with appointment summaries
 

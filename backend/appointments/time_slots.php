@@ -1,6 +1,6 @@
 <?php
 // Fixed time slot lang ang pwede
-const TIME_SLOTS = ['9:00 AM', '10:30 AM', '1:00 PM', '2:30PM', '4:00 PM'];
+const TIME_SLOTS = ['9:00 AM', '10:30 AM', '1:00 PM', '2:30PM', '4:00 PM', '5:30 PM'];
 
 // if cancelled returns nya yung slot
 function getAvailableSlots(PDO $pdo, string $date): array

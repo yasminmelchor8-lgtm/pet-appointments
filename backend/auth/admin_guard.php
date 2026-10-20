@@ -1,6 +1,6 @@
 <?php
 // TEMPORARY admin check.
-// para sure lang if nag wwork, wait pa kita yasminnn!
+// para sure lang if nag wwork, wait pa kita yasminnn
 
 if (session_status() === PHP_SESSION_NONE) {
     session_start();
